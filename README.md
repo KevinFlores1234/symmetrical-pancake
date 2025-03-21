@@ -1,2 +1,2 @@
 # Pagina:
-[https://kevinflores1234.github.io/symmetrical-pancake/](Pagina HTML)
+https://kevinflores1234.github.io/symmetrical-pancake/
